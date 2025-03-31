@@ -134,6 +134,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="birghtcontrol.cpp" />
+    <ClCompile Include="dissolve.cpp" />
+    <ClCompile Include="dissolve_2.cpp" />
+    <ClCompile Include="HighPassFilter.cpp" />
+    <ClCompile Include="LowPassFilter.cpp" />
+    <ClCompile Include="LowPassFilter_2.cpp" />
     <ClCompile Include="opencvtest.cpp" />
     <ClCompile Include="reverse.cpp" />
     <ClCompile Include="toblack.cpp" />
