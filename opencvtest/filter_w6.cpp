@@ -1,4 +1,4 @@
-#include "filter.hpp"
+#include "filter_w6.hpp"
 
 Filter::~Filter()
 {
