@@ -1,11 +1,2 @@
-C:\Users\김수현\source\repos\opencvtest\opencvtest\birghtcontrol.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\birghtcontrol.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\dissolve.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\dissolve.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\dissolve_2.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\dissolve_2.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\filter.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\filter.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\HighPassFilter.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\HighPassFilter.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\LowPassFilter.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\LowPassFilter.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\LowPassFilter_2.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\LowPassFilter_2.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\opencvtest.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\opencvtest.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\p5-2.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\p5-2.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\reverse.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\reverse.obj
-C:\Users\김수현\source\repos\opencvtest\opencvtest\toblack.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\toblack.obj
+C:\Users\김수현\source\repos\opencvtest\opencvtest\moravec.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\moravec.obj
+C:\Users\김수현\source\repos\opencvtest\opencvtest\p6.main.cpp;C:\Users\김수현\source\repos\opencvtest\opencvtest\x64\Debug\p6.main.obj

@@ -27,12 +27,6 @@
     <ClCompile Include="toblack.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="dissolve_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="LowPassFilter_2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="HighPassFilter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -57,12 +51,21 @@
     <ClCompile Include="p5-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="moravec.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p6.main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="geometry.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="filter.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="transformations\moravec.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
