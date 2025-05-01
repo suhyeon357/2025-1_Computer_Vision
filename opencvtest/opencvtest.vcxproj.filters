@@ -42,7 +42,7 @@
     <ClCompile Include="geometry.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="filter.cpp">
+    <ClCompile Include="filter_w6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="p5-1.cpp">
@@ -57,15 +57,24 @@
     <ClCompile Include="p6.main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p7.main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="filter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="geometry.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="filter.hpp">
+    <ClInclude Include="filter_w6.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="transformations\moravec.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="filter.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
