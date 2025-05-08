@@ -63,6 +63,12 @@
     <ClCompile Include="filter.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="harriscorner.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="p8-2.main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="geometry.hpp">
@@ -75,6 +81,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="filter.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="harriscorner.hpp">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
